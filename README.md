@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archita Ray</h1>
-<h3 align="center">A Business Analytics graduate student at Purdue University passionate about Data Analytics and Data Science</h3>
+<h3 align="center">A Business Analytics graduate student at Purdue University passionate about data analytics</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
